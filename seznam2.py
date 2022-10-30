@@ -8,3 +8,5 @@ for i in range(p-2):
     sez2[1] += 1
     sez.append(i)
 print(sez)
+
+#Pozor, rada nezacina od 0

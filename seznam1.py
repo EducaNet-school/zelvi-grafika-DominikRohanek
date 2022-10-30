@@ -7,3 +7,6 @@ for i in range(9):
     x += 2
     sez.append(x)
 print(sez)
+
+#jeste chybi vypocet prumeru 
+
